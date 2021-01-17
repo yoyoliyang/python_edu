@@ -10,5 +10,5 @@
 
 5, print()函数中，flush= 参数的用法,注意，flush参数仅限于cmd窗口中。
 
-6, print()函数中，sep= 参数的用法
+6, print()函数中，sep= 分隔符参数的用法
 

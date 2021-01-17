@@ -12,7 +12,7 @@ IDLE = intergrated development and learning environment
 \" 代表"
 \n 代表换行符，n的意思为newline 新的一行、换行
 
-6, print()方法中，end=参数的用法，示例：
+6, print()方法中，end=结束符参数的用法，示例：
 print("hello,world", end="\n")
 
 7, # 注释符，注释符后的代码不会执行（仅当前行）
